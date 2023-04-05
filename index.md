@@ -1,5 +1,7 @@
 # Shreya Gupta 
 ![Profile Picture](images/IMG-1243.jpg) <br />
+[1. About Me](#about-me)
+[2. My Interests](#interests) 
 
 ## About Me
  Hello! I'm a **Math-Computer Science** student at the **University of California, San Diego**. <br />
